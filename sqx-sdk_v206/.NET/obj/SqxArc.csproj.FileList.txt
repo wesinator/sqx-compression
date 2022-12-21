@@ -1,0 +1,8 @@
+bin\Debug\SqxArc.exe
+bin\Debug\SqxArc.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SqxArc.exe
+obj\Debug\SqxArc.pdb
+bin\Release\SqxArc.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\SqxArc.exe

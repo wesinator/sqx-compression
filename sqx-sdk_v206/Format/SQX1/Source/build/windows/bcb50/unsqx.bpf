@@ -1,0 +1,22 @@
+USEUNIT("..\..\..\uarde.c");
+USEUNIT("..\..\..\arcio.c");
+USEUNIT("..\..\..\crc32.c");
+USEUNIT("..\..\..\ctab.c");
+USEUNIT("..\..\..\cx_audio.c");
+USEUNIT("..\..\..\mm_coder.c");
+USEUNIT("..\..\..\rcoder.c");
+USEUNIT("..\..\..\sqx_dec.c");
+USEUNIT("..\..\..\sqx_main.c");
+USEUNIT("..\..\..\sqx_vars.c");
+USEUNIT("..\..\..\t_coder.c");
+USEUNIT("..\..\..\os\sqx_os.c");
+USEUNIT("..\..\..\crypt\md5c.c");
+USEUNIT("..\..\..\crypt\aes\aestab.c");
+USEUNIT("..\..\..\crypt\aes\aes_c.c");
+USEUNIT("..\..\..\crypt\aes\aescrypt.c");
+USEUNIT("..\..\..\crypt\aes\aeskey.c");
+USEUNIT("..\..\..\crypt\bf\bf_crypt.c");
+//---------------------------------------------------------------------------
+Diese Datei wird nur vom Projekt-Manager verwendet und sollte wie die Projektdatei behandelt werden
+
+main

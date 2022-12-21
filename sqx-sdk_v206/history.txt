@@ -1,0 +1,36 @@
+2.06.5601
+
+[-] CRC error when extracting archives with text compression (PPMd) and order > 16 (only x64)
+
+-------------------------------------------------------------------------------
+2.05.5600
+
+[-] x64 version has created faulty archives when text compression (PPMd) was enabled (only x64)
+
+-------------------------------------------------------------------------------
+2.04.5260 - 26.01.2008
+
+[-] Archives were not created properly when both EXE and multimedia compression were set to SQX_SPECIALCOMP_FORCE
+[-] When extracting multivolume archives the volumes were not closed properly
+
+-------------------------------------------------------------------------------
+2.03.5080 - 30.07.2007
+
+[+] Delphi samples added
+
+-------------------------------------------------------------------------------
+2.02.4600 - 06.04.2006
+
+[-] Restoring of OLE/NTFS comments failed sometimes
+[-] When compressing an empty folder recovery data was not added properly
+
+-------------------------------------------------------------------------------
+2.01.4460 - 17.11.2005
+
+[-] Crash when compressing files in ultra mode (only x64-version)
+[-] Crash when listing digitally signed archives and no callbacks for SQX_CALLBACK_SIGNAL and SQX_CALLBACK_PROGRESS were set
+[-] Error when creating archives without compression (stored)
+[-] Error when listing multivolume archives twice in a session
+[-] When deleting files from solid archives with ultra compression the files were not compressed again in ultra mode
+
+-------------------------------------------------------------------------------

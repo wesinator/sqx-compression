@@ -1,0 +1,10 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <StartArguments>add "D:\temp1\test2.sqx" "D:\temp1\7za.dll"</StartArguments>
+    <StartWorkingDirectory>D:\temp1\</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <StartArguments>add "D:\temp1\test2.sqx" "D:\temp1\7za.dll"</StartArguments>
+    <StartWorkingDirectory>D:\temp1\</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>
