@@ -2,7 +2,7 @@
 
 This repository contains a copy of the original [SQX](https://en.wikipedia.org/wiki/SQX) (Squeez) compression algorithm source.
 
-The original author [passed away](https://www.speedproject.de/ein-teufelskreis/) long ago, and while a few existing programs support this format, there does not appear to be a place for the last recent version of the SDK code which hasn't changed since 2008.
+The original author [passed away](https://web.archive.org/web/20220812061439/https://www.speedproject.de/ein-teufelskreis/) long ago, and while a few existing programs support this format, there does not appear to be a place for the last recent version of the SDK code which hasn't changed since 2008.
 
 See this [archived page](https://web.archive.org/web/20131127163704/http://sqx-archiver.org/features.html) for more information about the format.
 
