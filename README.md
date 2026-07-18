@@ -14,3 +14,4 @@ This code is authored under various copyrights and licenses. An archived version
  - [QuickBMS](https://aluigi.altervista.org/quickbms.htm) (SQX1)
  - [Speed Commander](https://www.speedproject.com/) (paid file manager software by original SQX developer)
  - [TugZIP](http://tugzip.com/) (not maintained since 2008)
+ - [Cobian backup](https://wikipedia.org/wiki/Cobian_Backup)
