@@ -8,7 +8,7 @@ See this [archived page](https://web.archive.org/web/20131127163704/http://sqx-a
 
 **NOTE:** I am not the author of this code. I am posting it for archival purposes.
 
-This code is authored under various copyrights and licenses. An archived version of the original license can be found [here](https://web.archive.org/web/20131127162415/http://sqx-archiver.org/index.html).
+This code is authored under various copyrights and licenses. SQXv1 code is copyrighted under a modified BSD license. An archived version of the original license can be found [here](https://web.archive.org/web/20131127162415/http://sqx-archiver.org/index.html).
 
 #### Programs that support SQX
  - [QuickBMS](https://aluigi.altervista.org/quickbms.htm) (SQX1)
