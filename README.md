@@ -12,7 +12,7 @@ This code is authored under various copyrights and licenses. An archived version
 
 #### Programs that support SQX
  - [QuickBMS](https://aluigi.altervista.org/quickbms.htm) (SQX1)
- - [Speed Commander](https://www.speedproject.com/) (paid file manager software by original SQX developer)
+ - [Speed Commander](https://www.speedproject.com/) (paid file manager software) | [Zipstar](https://web.archive.org/web/20090220144253/www.speedproject.de/enu/zipstar/index.html) | [Squeez](https://www.chip.de/downloads/Vollversion-Squeez_13004234.html)
  - [TugZIP](http://tugzip.com/) (not maintained since 2008)
  - [Cobian backup](https://wikipedia.org/wiki/Cobian_Backup)
 
